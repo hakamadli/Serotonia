@@ -47,14 +47,14 @@
               <!-- The user image in the navbar-->
               <img src="./dist/img/avatar5.png" class="user-image" alt="User Image">
               <!-- hidden-xs hides the username on small devices so only the image appears. -->
-              <span class="hidden-xs">Hakam</span>
+              <span class="hidden-xs">Admin</span>
             </a>
             <ul class="dropdown-menu">
               <!-- The user image in the menu -->
               <li class="user-header">
                 <img src="./dist/img/avatar5.png" class="img-circle" alt="User Image">
                 <p>
-                  Hakam - Developer
+                  Admin - Developer
                   <small>Member since July. 2021</small>
                 </p>
               </li>
@@ -86,7 +86,7 @@
           <img src="./dist/img/avatar5.png" class="img-circle" alt="User Image">
         </div>
         <div class="pull-left info">
-          <p>Hakam</p>
+          <p>Admin</p>
           <!-- Status -->
           <a href=""><i class="fa fa-circle text-success"></i> Online</a>
         </div>
