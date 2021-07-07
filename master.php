@@ -111,7 +111,7 @@
           </a>
           <ul class="treeview-menu">
             <li><a href="/Serotonia/create.php">Add New Question</a></li>
-            <li><a href="/Serotonia">All Questions</a></li>
+            <li><a href="/Serotonia/admin_dashboard.php">All Questions</a></li>
           </ul>
           <a href="#"><i class="fa fa-bar-chart"></i> <span>Statistics</span>
             <span class="pull-right-container">

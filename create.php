@@ -45,7 +45,7 @@
             success: function (result) {
                 if (result['status'] == true) {
                     alert("Successfully Added New Question!");
-                    window.location.href = '/Serotonia';
+                    window.location.href = '/Serotonia/admin_dashboard.php';
                 }
                 else {
                     alert(result['message']);
