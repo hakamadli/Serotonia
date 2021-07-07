@@ -1,8 +1,8 @@
 c:\xampp\mysql\bin\mysql.exe -u root –p
 
-CREATE DATABASE webproject2 DEFAULT CHARACTER SET utf8;
+CREATE DATABASE Serotonia DEFAULT CHARACTER SET utf8;
 
-USE webproject2;
+USE Serotonia;
 
 CREATE TABLE admin (
 admin_id INTEGER NOT NULL AUTO_INCREMENT PRIMARY KEY,
